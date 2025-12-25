@@ -6,6 +6,9 @@ Section: B
 Branch: Computer Science and Engineering
 Year of Admission: 2024
 College Name: GCE
+<<<<<<< HEAD
 Secondary School: JSS Public School
 PUC: CMR National PU College
 UG Degree: Computer Science and Engineering
+=======
+>>>>>>> f297e4e (Added aboutMyself.txt file successfully)
