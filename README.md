@@ -6,5 +6,4 @@ Section: A
 Subject Code: BCS358C
 Academic Year: 2025-26
 Mobile No: 9845280390
-Email ID: zayd90953@gmail.com
 
