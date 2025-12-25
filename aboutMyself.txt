@@ -1,0 +1,8 @@
+Title: Mr
+Full Name: Zayd
+USN: 1GC24CS132
+Semester: Third
+Section: B
+Branch: Computer Science and Engineering
+Year of Admission: 2024
+College Name: GCE
