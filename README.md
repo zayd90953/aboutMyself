@@ -1,0 +1,10 @@
+Title: Mr.
+Full Name: Zayd
+USN: 1GC24CS132
+Semester: Third
+Section: A
+Subject Code: BCS358C
+Academic Year: 2025-26
+Mobile No: 9845280390
+Email ID: zayd90953@gmail.com
+
